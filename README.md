@@ -2,7 +2,7 @@
 - 👀 I’m interested in game and web development
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on challenging game and web projects
-- 📫 You can reach me through gmail at ogunrindeoluwaseun01@gmail.com
+- 📫 You can reach me through my website at https://www.gamedevdaniel.com/
 
 <!---
 Ogunrinde-Daniel/Ogunrinde-Daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
