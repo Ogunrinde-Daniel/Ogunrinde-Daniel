@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ogunrinde-Daniel
-- 👀 I’m interested in game and web development
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on challenging game and web projects
+- 👀 I’m interested in game and software development
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on challenging game and software projects
 - 📫 You can reach me through my website at https://www.gamedevdaniel.com/
 
 <!---
